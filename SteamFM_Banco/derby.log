@@ -1,0 +1,31 @@
+Fri Oct 02 10:05:11 BRT 2015 : Apache Derby Servidor de Rede - 10.10.2.0 - (1582446) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Fri Oct 02 10:05:12 BRT 2015:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância a816c00e-0150-28a8-068f-ffffe82db7e7
+no diretório de banco de dados C:\Temp\SteamFM_JPA\SteamFM_Banco\STEAMFM 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=C:\Program Files\GlassFish_Server\javadb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Temp\SteamFM_JPA\SteamFM_Banco
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Oct 02 10:05:25 BRT 2015:
+Encerrando a instância a816c00e-0150-28a8-068f-ffffe82db7e7
+Fri Oct 02 10:05:25 BRT 2015 Thread[DRDAConnThread_3,5,main] (DATABASE = STEAMFM), (DRDAID = {2}), Banco de dados 'STEAMFM' fechado.
+----------------------------------------------------------------
+Fri Oct 02 10:05:35 BRT 2015:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância 560740aa-0150-28a8-068f-ffffe82db7e7
+no diretório de banco de dados C:\Temp\SteamFM_JPA\SteamFM_Banco\STEAMFM 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=C:\Program Files\GlassFish_Server\javadb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Temp\SteamFM_JPA\SteamFM_Banco
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
